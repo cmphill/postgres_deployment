@@ -1,0 +1,6 @@
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-RESTful
+psycopg2-binary
+sqlalchemy-serializer
